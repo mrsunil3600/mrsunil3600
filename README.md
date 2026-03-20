@@ -14,17 +14,21 @@
 
 ---
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack  
 
-<div align="center">"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-"Spring Boot" (https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-"Kafka" (https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-"JUnit" (https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
-"Mockito" (https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge)
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge)
+
+</div>
 
 </div>---
 
