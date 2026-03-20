@@ -1,10 +1,8 @@
-<div align="center">🚀 Hi 👋, I'm Rajesh Kumar
+<div align="center">🚀 Hi 👋, I'm Sunil
 
 💻 Java Backend Developer | ⚡ Spring Boot | 🔥 Kafka | 🌐 WebSockets
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Spring+Boot+Expert;Kafka+Enthusiast;Microservices+Developer;Always+Learning+New+Tech&center=true&width=600&height=50">---
-
-<img src="https://user-images.githubusercontent.com/74038190/212750598-3d3b7d1e-5b3d-4e45-bc2d-93c7f8d1c0a1.gif" width="500"></div>---
+<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Spring+Boot+Developer;Kafka+Enthusiast;Microservices+Builder&center=true&width=600&height=50"></div>---
 
 🧠 About Me
 
@@ -32,7 +30,7 @@
 
 🚀 Featured Projects
 
-<div align="center">🔹 Real-time Chat App
+🔹 Real-time Chat App
 ⚡ Spring Boot + WebSocket + Kafka
 
 🔹 Scalable REST API System
@@ -41,20 +39,16 @@
 🔹 Microservices Architecture
 🐳 Docker + Spring Boot
 
-</div>---
+---
 
 📊 GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/></div>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrsunil3600&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsunil3600&theme=tokyonight&hide_border=true" height="150"/></div>---
 
 🏆 Achievements
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/></div>---
-
-🐍 Contribution Graph
-
-<div align="center"><img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/></div>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=mrsunil3600&theme=tokyonight&no-frame=true&row=1&column=6"/></div>---
 
 🌐 Connect with Me
 
@@ -63,6 +57,6 @@
 
 </div>---
 
-<div align="center">⭐️ From "Rajesh Kumar" (https://github.com/YOUR_USERNAME)
+<div align="center">⭐️ From Sunil
 
 </div>
