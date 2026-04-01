@@ -56,7 +56,8 @@
 
 🌐 Connect with Me
 
-<div align="center">""LinkedIn" (https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)" (https://linkedin.com/in/YOUR_LINK)
+<div align="center">""LinkedIn" (https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)"
+( https://www.linkedin.com/in/mr-sunil-1a12a4285?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ""Email" (https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)" (mailto:your-email@gmail.com)
 
 </div>---
